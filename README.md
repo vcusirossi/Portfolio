@@ -8,7 +8,7 @@ Link to ShinyApp dashboard
 
 ## Spotted Lanternfly
 Please see the Spoted Lanternfly folder to review all code and access to data
-link to dashboard: 
+link to dashboard: <br>
 https://vcusimano.shinyapps.io/spottedlanternfly/
 
 ## Bird Barrier Solutions
