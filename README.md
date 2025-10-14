@@ -7,7 +7,8 @@ https://vcusimano.shinyapps.io/LA_Crimes/
 Link to ShinyApp dashboard 
 
 ## Spotted Lanternfly
-Please see the Spoted Lanternfly folder to 
+Please see the Spoted Lanternfly folder to review all code and access to data
+link to dashboard: 
 https://vcusimano.shinyapps.io/spottedlanternfly/
 
 ## Bird Barrier Solutions
