@@ -12,6 +12,6 @@ Please see the Spoted Lanternfly folder to review all code and access to data <b
 link to dashboard: https://vcusimano.shinyapps.io/spottedlanternfly/
 
 ## Bird Barrier Solutions
-Please see the Bird Barrier Solutions Repository
+Please see the Bird Barrier Solutions Repository<br>
 Fictional company that was created using datasets from iNaturalist. Database was created in MySQL to create multiple queries to assist with customer needs. Used results from queries to present our fictional company to target investors to show where need was for development and improvements.
 
